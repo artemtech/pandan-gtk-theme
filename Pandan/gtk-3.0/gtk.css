@@ -753,7 +753,7 @@ modelbutton.flat arrow.right {
     *:selected *:link:visited, *:selected button:visited:link, *:selected button:visited {
       color: #bad4f3; }
   *:link:hover, button:hover:link, button:hover:visited {
-    color: #5294e2; }
+    color: #48D292; }
     *:selected *:link:hover, *:selected button:hover:link, *:selected button:hover:visited {
       color: #eef4fc; }
   *:link:active, button:active:link, button:active:visited {
@@ -963,7 +963,7 @@ headerbar,
         -gtk-icon-source: -gtk-icontheme("pan-down-symbolic"); }
     .maximized headerbar.selection-mode,
     .maximized .selection-mode.titlebar:not(headerbar) {
-      background-color: #5294e2; }
+      background-color: #48D292; }
   .tiled headerbar, .tiled headerbar:backdrop,
   .maximized headerbar, .maximized headerbar:backdrop,
   .tiled .titlebar:not(headerbar),
