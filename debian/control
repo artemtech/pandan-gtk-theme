@@ -1,13 +1,13 @@
-Source: bromo-theme
-Section: gnome
+Source: pandan-theme
+Section: misc
 Priority: optional
 Maintainer: BlankOn Developers <BlankOn-dev@googlegroups.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
-Vcs-Git: https://gitlab.com/cho2/bromo-theme.git
+Vcs-Git: https://github.com/artemtech/pandan-theme.git
 
-Package: bromo-theme
+Package: pandan-theme
 Architecture: all
 Depends: ${misc:Depends}, gtk3-engines-unico, gtk2-engines-murrine
-Description: Bromo Theme
- A theme for Manokwari on BlankOn. Based on Arc Theme.
+Description: Pandan Theme
+ A theme for Manokwari on BlankOn. Based on Bromo Theme.
