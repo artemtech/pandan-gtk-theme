@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Bromo-pirated
-Comment=Bromo Manokwari theme based on Arc (pirated by artemtech)
+Name=Pandan
+Comment=Pandan + Manokwari theme based on Arc
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Bromo-pirated
-MetacityTheme=Bromo-pirated
+GtkTheme=Pandan
+MetacityTheme=Pandan
 IconTheme=Tebu-Flat
 
 ButtonLayout=menu:minimize,maximize,close
