@@ -1,3 +1,13 @@
+pandan-theme (0.4) tambora; urgency=low
+
+  * Update green components on gnome-shell, gtk2, gtk3, metacity
+  * Add dark-assets on gnome-shell
+  * Add unity support
+  * Add xfwm4 support
+  * Transparent BG on end session
+
+ -- Sofyan Sugianto <sofyanartem@gmail.com>  Sat, 18 Feb 2017 19:46:17 +0700
+
 pandan-theme (0.1) tambora; urgency=low
 
   * Initial package release by @reaamina.
