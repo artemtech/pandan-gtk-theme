@@ -9,5 +9,5 @@ Vcs-Git: https://github.com/artemtech/pandan-theme.git
 Package: pandan-theme
 Architecture: all
 Depends: ${misc:Depends}, gtk3-engines-unico, gtk2-engines-murrine
-Description: Pandan Theme
- A theme for Manokwari on BlankOn. Based on Bromo Theme.
+Description: Pandan theme for Blankon GNU/Linux
+ Green version of bromo-theme for Blankon GNU/Linux
